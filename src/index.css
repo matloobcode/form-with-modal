@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to right, rgb(206, 76, 182), rgb(164, 58, 58), rgb(56, 119, 191));
+}
+#height{
+    margin-top: 200px;
+}
+#login{
+    background-image: radial-gradient(rgb(145, 53, 118), rgb(92, 92, 184), rgb(68, 168, 56));
+}
+.modal-content{
+    background-image: url(../public//bg-2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
